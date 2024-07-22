@@ -15,8 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PrintPyramid_UpsideDown.cpp">
-      <Filter>ソース ファイル</Filter>
+    <ClCompile Include="NineTimesNine.cpp">
+      <Filter>ソース ファイル\ヘッダー ファイル</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
